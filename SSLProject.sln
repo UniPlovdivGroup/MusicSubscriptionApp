@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music subscription app", "Music subscription app\Music subscription app.csproj", "{1FD6C520-20AC-4990-8B95-7D1C51D87111}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSLServerEssentials", "SSLServerEssentials\SSLServerEssentials.csproj", "{BE380345-8637-41BB-832F-5B8EAEA87DBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSLServerConsoleApp", "SSLServerConsoleApp\SSLServerConsoleApp.csproj", "{A5AC1FD3-4756-477D-ACB2-CB05ED304120}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSLConnectionEssentials", "SSLConnectionEssentials\SSLConnectionEssentials.csproj", "{F28FD1EF-4483-4C65-A2BE-75E8ADC2BD51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSLClientEssentials", "SSLClientEssentials\SSLClientEssentials.csproj", "{2781E072-7277-4D80-AE0F-D61C0BAA7741}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSLClientConsoleApp", "SSLClientConsoleApp\SSLClientConsoleApp.csproj", "{B652959D-2729-4BF0-B503-D5C991672386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD6C520-20AC-4990-8B95-7D1C51D87111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD6C520-20AC-4990-8B95-7D1C51D87111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD6C520-20AC-4990-8B95-7D1C51D87111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD6C520-20AC-4990-8B95-7D1C51D87111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE380345-8637-41BB-832F-5B8EAEA87DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE380345-8637-41BB-832F-5B8EAEA87DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE380345-8637-41BB-832F-5B8EAEA87DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE380345-8637-41BB-832F-5B8EAEA87DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AC1FD3-4756-477D-ACB2-CB05ED304120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AC1FD3-4756-477D-ACB2-CB05ED304120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AC1FD3-4756-477D-ACB2-CB05ED304120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AC1FD3-4756-477D-ACB2-CB05ED304120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28FD1EF-4483-4C65-A2BE-75E8ADC2BD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28FD1EF-4483-4C65-A2BE-75E8ADC2BD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28FD1EF-4483-4C65-A2BE-75E8ADC2BD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28FD1EF-4483-4C65-A2BE-75E8ADC2BD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2781E072-7277-4D80-AE0F-D61C0BAA7741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2781E072-7277-4D80-AE0F-D61C0BAA7741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2781E072-7277-4D80-AE0F-D61C0BAA7741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2781E072-7277-4D80-AE0F-D61C0BAA7741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B652959D-2729-4BF0-B503-D5C991672386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B652959D-2729-4BF0-B503-D5C991672386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B652959D-2729-4BF0-B503-D5C991672386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B652959D-2729-4BF0-B503-D5C991672386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D48F3382-063A-4DE5-AD1C-9636A13A5B96}
+	EndGlobalSection
+EndGlobal

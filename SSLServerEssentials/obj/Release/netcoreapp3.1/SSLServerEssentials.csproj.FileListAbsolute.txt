@@ -1,0 +1,12 @@
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\bin\Release\netcoreapp3.1\SSLServerEssentials.deps.json
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\bin\Release\netcoreapp3.1\SSLServerEssentials.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\bin\Release\netcoreapp3.1\SSLServerEssentials.pdb
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\bin\Release\netcoreapp3.1\SSLConnectionEssentials.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\bin\Release\netcoreapp3.1\SSLConnectionEssentials.pdb
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.csprojAssemblyReference.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.AssemblyInfoInputs.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.AssemblyInfo.cs
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.csproj.CoreCompileInputs.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.csproj.CopyComplete
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\SSLServerEssentials\obj\Release\netcoreapp3.1\SSLServerEssentials.pdb

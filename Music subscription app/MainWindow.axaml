@@ -1,0 +1,224 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d" d:DesignWidth="970" d:DesignHeight="590"
+        x:Class="Music_subscription_app.MainWindow"
+        Title="Music subscription app"
+         Width="970" Height="590"
+         WindowStartupLocation="CenterScreen"
+         CanResize="False"
+         Icon="/Assets/icon.ico">
+  
+  
+  <Window.Background>
+    <ImageBrush Stretch="UniformToFill" Source="/Assets/background.jpg"/>
+  </Window.Background>
+  <Window.Styles>
+    <Style Selector="Button.SendFormButton:pressed">
+      <Setter Property="BorderBrush" Value = "#FFDD4812"/>
+    </Style>
+
+    <Style Selector = "Button/template/ContentPresenter">
+      <Setter Property = "CornerRadius" Value = "10" />
+    </Style>
+
+
+  </Window.Styles>
+
+
+  <Grid   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,20" >
+
+    <Grid.RowDefinitions>
+      <RowDefinition Height="80"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="860"/>
+    </Grid.ColumnDefinitions>
+
+    <Grid Grid.Row="0" Margin="0,0,0,19" >
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="600"/>
+        <ColumnDefinition Width="300"/>
+      </Grid.ColumnDefinitions>
+      <TextBlock VerticalAlignment="Bottom" Name="text1" Grid.Column="0" Grid.Row="0" Text="Please complete a form if you want to receive notifications on new music weekly."   FontSize="16"   />
+      <Image VerticalAlignment="Top" Grid.Column="1"  Height="100"  Source="/Assets/logo.png"></Image>
+    </Grid>
+    <Grid Grid.Row="1" Grid.Column="0">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="490"/>
+
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="420"/>
+        <ColumnDefinition Width="440"/>
+      </Grid.ColumnDefinitions>
+
+      <Grid Name="InfoForm"  Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" >
+
+
+        <Grid.RowDefinitions>
+          <RowDefinition Height = "17"  />
+          <RowDefinition Height = "28" />
+          <RowDefinition Height = "17" />
+          <RowDefinition Height = "28" />
+          <RowDefinition Height = "17" />
+          <RowDefinition Height = "28" />
+          <RowDefinition Height = "50" />
+          <RowDefinition Height = "17" />
+          <RowDefinition Height = "28" />
+          <RowDefinition Height = "24" />
+          <RowDefinition Height = "120" />
+          <RowDefinition Height = "40" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Name:"  Margin="0,0,0,4"   FontSize="13" Grid.Row="0" ></TextBlock>
+        <Border CornerRadius="10"  Grid.Row="1" Background="#FFFFE37E" >
+          <TextBox  FontSize="13" Watermark="Name" Name="Name" MaxLength="32" MaxWidth="300" BorderThickness="0" HorizontalAlignment="Stretch"   Background="#FFFFE37E" />
+        </Border>
+
+        <TextBlock Text="Last name:" Margin="0,12,0,4" FontSize="13"  Grid.Row="2"  ></TextBlock>
+        <Border CornerRadius="10"  Grid.Row="3"   Background="#FFFFE37E">
+          <TextBox  FontSize="13" Name="Last_name" Watermark="Last name"  MaxLength="32" MaxWidth="300" BorderThickness="0" HorizontalAlignment="Stretch"  Background="#FFFFE37E"  />
+        </Border>
+
+        <TextBlock Text="Email:"   Margin="0,12,0,4" FontSize="13"   Grid.Row="4" ></TextBlock>
+        <Border CornerRadius="10"  Grid.Row="5"   Background="#FFFFE37E">
+          <TextBox  Name="Email" FontSize="13" Watermark="example@gmail.com" MaxLength="50" MaxWidth="300" BorderThickness="0"    Background="#FFFFE37E" HorizontalAlignment="Stretch"  />
+        </Border>
+
+
+        <Grid Grid.Row="6" HorizontalAlignment="Stretch" Margin="0,6,0,4" >
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition MaxWidth="160"/>
+            <ColumnDefinition MaxWidth="96"/>
+            <ColumnDefinition MaxWidth="100"/>
+          </Grid.ColumnDefinitions>
+          <Border CornerRadius="10" HorizontalAlignment="Stretch"   Background="#FFFFE37E" Margin="0,12,0,0"  Grid.Column="0" >
+            <TextBox Name="City"      Watermark="City" MaxWidth="100" BorderThickness="0" MaxLength="50"  Background="#FFFFE37E" FontSize="13"  />
+          </Border>
+          <Border CornerRadius="10"   Background="#FFFFE37E"  HorizontalAlignment="Stretch"   Grid.Column="1" Margin="14,12,0,0" >
+            <ComboBox Name="State"  MaxWidth="65" BorderThickness="0"     Background="#FFFFE37E" FontSize="13"  SelectedIndex="0" >
+              <ComboBoxItem Name="Not Specified"  BorderThickness="0" Background="#FFFFE37E" Foreground="LightGray" > State </ComboBoxItem>
+              <ComboBoxItem Name="US" BorderThickness="0" Background="#FFFFE37E">US </ComboBoxItem>
+              <ComboBoxItem Name="Bulgaria"  BorderThickness="0" Background="#FFFFE37E">Bulgaria</ComboBoxItem>
+              <ComboBoxItem Name="Serbia" BorderThickness="0" Background="#FFFFE37E">Serbia</ComboBoxItem>
+              <ComboBoxItem Name="Ukraine" BorderThickness="0" Background="#FFFFE37E">Ukraine</ComboBoxItem>
+            </ComboBox>
+          </Border>
+          <Border CornerRadius="10"  HorizontalAlignment="Stretch"  Margin="14,12,0,0"  Grid.Column="2" Background="#FFFFE37E"  >
+            <TextBox Name="ZipCode"  MaxWidth="63" BorderThickness="0"  Watermark="Zip Code" MaxLength="6" FontSize="13"    Background="#FFFFE37E" />
+          </Border>
+        </Grid>
+
+
+
+
+        <TextBlock Text="Artists:"  Grid.Row="7" FontSize="13"   Margin="0,6,0,4"></TextBlock>
+
+        <Border CornerRadius="10" Grid.Row="8"  Background="#FFFFE37E">
+          <TextBox Name="Artists"  FontSize="13" Watermark="Favorite artists..."  MaxWidth="300" BorderThickness="0"  Background="#FFFFE37E" HorizontalAlignment="Stretch"   />
+        </Border>
+        <TextBlock Text="Music genres to get notifications for:"  Margin="0,12,0,4"  MaxWidth="420" HorizontalAlignment="Stretch" FontSize="16"  Grid.Row="9" />
+
+        <!--Checkboxes Grid -->
+        <Grid Name="CheckBoxGrid" Grid.Row="10"  MaxWidth="420" Margin="0,0,0,4" HorizontalAlignment="Stretch">
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width = "*" />
+            <ColumnDefinition Width = "*" />
+            <ColumnDefinition Width = "*" />
+            <ColumnDefinition Width = "*" />
+
+          </Grid.ColumnDefinitions>
+
+          <Grid.RowDefinitions>
+            <RowDefinition Height = "*" MinHeight="30"/>
+            <RowDefinition Height = "*" MinHeight="30" />
+            <RowDefinition Height = "*" MinHeight="30" />
+            <RowDefinition Height = "*" MinHeight="30" />
+          </Grid.RowDefinitions>
+          <Border CornerRadius="10" Grid.Row="0" Grid.Column="0"  Margin="0,0,12,0" >
+            <CheckBox Name="Pop" Content="Pop" ></CheckBox>
+          </Border>
+          <Border CornerRadius="10" Grid.Row="1" Grid.Column="0" Margin="0,0,12,0"  >
+            <CheckBox Name="Soul" Content="Soul"/>
+          </Border>
+          <Border CornerRadius="10"  Grid.Row="2" Grid.Column="0" Margin="0,0,12,0">
+            <CheckBox Name="Indie" Content="Indie"  />
+          </Border>
+          <Border CornerRadius="10"  Grid.Row="3"  Grid.Column="0"  Margin="0,0,12,0">
+            <CheckBox Name="Other" Content="Other"  />
+          </Border>
+
+
+          <Border CornerRadius="10" Grid.Row="0" Grid.Column="1" Margin="0,0,12,0" >
+            <CheckBox Name="Rock" Content="Rock"  />
+          </Border>
+          <Border CornerRadius="10" Grid.Row="1" Grid.Column="1" Margin="0,0,12,0">
+            <CheckBox Name="RnB" Content="RnB" />
+          </Border>
+          <Border CornerRadius="10" Grid.Row="2" Grid.Column="1" Margin="0,0,12,0" >
+            <CheckBox Name="Blues" Content="Blues"  />
+          </Border>
+
+
+          <Border CornerRadius="10" Grid.Row="0" Grid.Column="2" Margin="0,0,12,0">
+            <CheckBox Name="Hip_hop" Content="Hip hop" />
+          </Border>
+          <Border CornerRadius="10" Grid.Row="1" Grid.Column="2" Margin="0,0,12,0">
+            <CheckBox  Name="Electronic" Content="Electronic" />
+          </Border>
+          <Border CornerRadius="10" Grid.Row="2" Grid.Column="2" Margin="0,0,12,0">
+            <CheckBox Name="Latin" Content="Latin"/>
+          </Border>
+
+
+          <Border CornerRadius="10" Grid.Row="0" Grid.Column="3" Margin="0,0,12,0">
+            <CheckBox Name="Jazz" Content="Jazz" />
+          </Border>
+          <Border CornerRadius="10" Grid.Row="1" Grid.Column="3" Margin="0,0,12,0">
+            <CheckBox Name="Experimental" Content="Experimental" />
+          </Border>
+          <Border CornerRadius="10" Grid.Row="2" Grid.Column="3" Margin="0,0,12,0">
+            <CheckBox Name="Punk" Content="Punk" />
+          </Border>
+
+        </Grid>
+        <!--End checkboxes grid-->
+
+        <Button Content="Send" Margin="0,12,0,0" Width="90" Classes="SendFormButton"  Grid.Row="11"  Name="SendForm" HorizontalAlignment="Left" FontSize="13"   BorderThickness="0"   Background="#FFFFE37E" />
+
+
+      </Grid>
+
+
+      <Grid Grid.Column="1" Margin="0,22,0,0" Grid.Row="0"   >
+        <Grid.RowDefinitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="44"/>
+        </Grid.RowDefinitions>
+
+        <Border CornerRadius="15" Grid.Row="0" Background="#FFF1E7FB">
+          <TextBox Name="AppConsole" ZIndex="0"  Background="#FFF1E7FB" MaxWidth="410" BorderThickness="0"   IsReadOnly="True" AcceptsReturn="True" />
+        </Border>
+
+
+        <Grid Grid.Row="1" Margin="0,12,0,0">
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition  Width="368"/>
+            <ColumnDefinition  Width="72"/>
+          </Grid.ColumnDefinitions>
+
+          <Border CornerRadius="10" Grid.Column="0" Background="#FFF1E7FB" >
+            <TextBox Name="messageBox"  Watermark="Write something here..." Text="" MaxWidth="350" Padding="0" VerticalAlignment="Center" BorderThickness="0" TextWrapping="Wrap"  Background="#FFF1E7FB" FontSize="14"/>
+          </Border>
+          <Button Name="SendMsg" Grid.Column="1" Margin="12,0,0,0" Content="Send" BorderThickness="0" FontSize="14" Background="#FFFFE37E"/>
+        </Grid>
+      </Grid>
+    </Grid>
+
+  </Grid>
+
+
+</Window>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SpectraPH\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SpectraPH\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SSLServerConsoleApp/1.0.0": {
+        "dependencies": {
+          "SSLServerEssentials": "1.0.0"
+        },
+        "runtime": {
+          "SSLServerConsoleApp.dll": {}
+        }
+      },
+      "SSLConnectionEssentials/1.0.0": {
+        "runtime": {
+          "SSLConnectionEssentials.dll": {}
+        }
+      },
+      "SSLServerEssentials/1.0.0": {
+        "dependencies": {
+          "SSLConnectionEssentials": "1.0.0"
+        },
+        "runtime": {
+          "SSLServerEssentials.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSLServerConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSLConnectionEssentials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSLServerEssentials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fjk9sfix52gluUmP5k17NYdRFimj+3hN8hpEeMmaz7DcBh0Q7hfP7DFfe++HzQe7pyEihn2sALKi4n+4XtjQrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scott\\Downloads\\SSLProject1.0.0\\SSLProject\\SSLServerConsoleApp\\SSLServerConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scott\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.5\\microsoft.netcore.app.runtime.win-x86.3.1.5.nupkg.sha512",
+    "C:\\Users\\scott\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.5\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.5.nupkg.sha512",
+    "C:\\Users\\scott\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.5\\microsoft.aspnetcore.app.runtime.win-x86.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

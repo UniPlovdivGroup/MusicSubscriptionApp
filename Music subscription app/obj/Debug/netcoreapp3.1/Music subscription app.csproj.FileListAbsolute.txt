@@ -1,0 +1,246 @@
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.exe
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.deps.json
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.runtimeconfig.json
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.runtimeconfig.dev.json
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.pdb
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Animation.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Base.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Controls.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.DesignerSupport.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.DesktopRuntime.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Diagnostics.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Dialogs.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Input.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Interactivity.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Layout.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Logging.Serilog.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Markup.Xaml.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Markup.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.OpenGL.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Styling.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Themes.Default.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Visuals.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Desktop.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Direct2D1.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.FreeDesktop.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Native.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Remote.Protocol.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Skia.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Win32.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.X11.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.Sinks.Trace.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpGen.Runtime.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpGen.Runtime.COM.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Tmds.DBus.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.AssemblyInfo.cs
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csproj.CopyComplete
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.pdb
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.genruntimeconfig.cache
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLClientEssentials.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLConnectionEssentials.dll
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLClientEssentials.pdb
+C:\Users\scott\Desktop\UniProject\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLConnectionEssentials.pdb
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.exe
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.deps.json
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.runtimeconfig.json
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.runtimeconfig.dev.json
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.pdb
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Animation.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Base.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Controls.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.DesignerSupport.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.DesktopRuntime.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Diagnostics.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Dialogs.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Input.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Interactivity.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Layout.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Logging.Serilog.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Markup.Xaml.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Markup.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.OpenGL.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Styling.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Themes.Default.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Visuals.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Desktop.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Direct2D1.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.FreeDesktop.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Native.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Remote.Protocol.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Skia.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Win32.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.X11.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.Sinks.Trace.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpGen.Runtime.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpGen.Runtime.COM.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\System.Reactive.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Tmds.DBus.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libAvaloniaNative.dylib
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSkiaSharp.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSkiaSharp.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLClientEssentials.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLConnectionEssentials.dll
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLClientEssentials.pdb
+E:\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLConnectionEssentials.pdb
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csprojAssemblyReference.cache
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.AssemblyInfoInputs.cache
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.AssemblyInfo.cs
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csproj.CoreCompileInputs.cache
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csproj.CopyComplete
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.dll
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.pdb
+E:\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.genruntimeconfig.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.exe
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.deps.json
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.runtimeconfig.json
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.runtimeconfig.dev.json
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Music subscription app.pdb
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Animation.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Base.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Controls.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.DesignerSupport.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.DesktopRuntime.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Diagnostics.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Dialogs.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Input.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Interactivity.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Layout.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Logging.Serilog.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Markup.Xaml.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Markup.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.OpenGL.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Styling.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Themes.Default.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Visuals.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Desktop.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Direct2D1.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.FreeDesktop.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Native.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Remote.Protocol.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Skia.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.Win32.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Avalonia.X11.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Serilog.Sinks.Trace.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpGen.Runtime.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SharpGen.Runtime.COM.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\Tmds.DBus.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLClientEssentials.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLConnectionEssentials.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLClientEssentials.pdb
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\bin\Debug\netcoreapp3.1\SSLConnectionEssentials.pdb
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csprojAssemblyReference.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.AssemblyInfoInputs.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.AssemblyInfo.cs
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csproj.CoreCompileInputs.cache
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.csproj.CopyComplete
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.dll
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.pdb
+C:\Users\scott\Downloads\SSLProject1.0.0\SSLProject\Music subscription app\obj\Debug\netcoreapp3.1\Music subscription app.genruntimeconfig.cache
